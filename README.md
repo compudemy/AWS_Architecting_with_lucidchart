@@ -1,2 +1,2 @@
-# AWS_Architecting_with_lucichart
-Hands on lab on drawing cloud architecture diagrams using lucichart
+# AWS_Architecting_with_lucidchart
+Hands on lab on drawing cloud architecture diagrams using lucidchart
